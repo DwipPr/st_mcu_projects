@@ -7,3 +7,6 @@
 [submodule "SDK/stm32h7xx_hal_driver"]
 	path = SDK/stm32h7xx_hal_driver
 	url = https://github.com/STMicroelectronics/stm32h7xx_hal_driver.git
+[submodule "stm32h7xx"]
+	path = stm32h7xx
+	url = https://github.com/DwipPr/stm32h7xx.git
